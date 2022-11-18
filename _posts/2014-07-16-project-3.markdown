@@ -1,0 +1,51 @@
+---
+layout: default
+modal-id: 3
+date: 2017-12-13
+img: sssStatisticalAnalysisOfGenomicsData.png
+alt: Statistical Analysis of Genomics Data
+project-date: Dec 2017
+client: Start Bootstrap
+title: Statistical Analysis of Genomics Data
+category: Statistics
+description: "<b>Introduction to statistics. Probability and stochastic processes, regression methods, applied multivariate analysis. Theory of Graphs and Networks, probabilistic algorithms. Machine Learning theory and approaches for dimensionality reduction.</b>"
+modules:
+  -
+    head: "Introduction to statistics"
+    body: "Populations and sets of data"
+  -
+    head: "Descriptive statistics"
+    body: "Univariate data (location and variability of the data, empirical distributions, histogram, boxplot; paired data: table, scatterplot, sample correlation coefficient)"
+  -
+    head: "Probability theory"
+    body: "Bayes theorem, random variables and their relative distributions (discrete: Bernoulli, Poisson; continuous: Weibull, Gaussian), laws obtained by means of gaussian distribution (t-distribution, chi-square distribution, Fisher distribution), weak law of large numbers, central limit theorem"
+  -
+    head: "Statistical inference"
+    body: "Point estimation (estimators: bias, mean squared error, efficiency) and interval estimation (confidence intervals for the mean of normal distributions with known and unkown variance, Confidence intervals for the variance of normal distributions confidence interval for the mean of Bernoulli distributions)"
+  -
+    head: "Hypothesis testing"
+    body: "Terminology, tests of hypothesis for the mean of normal distributions with known and unknown variance, Test of hypothesis for the variance of normal distribution, for the mean of Bernoulli distributions and for two means and two variances"
+  -
+    head: "Regression methods"
+    body: "linear regression models, multiple regression models"
+  -
+    head: "Multivariate Analysis"
+    body: "PCA, Classification (kNN) and Discriminant Analysis (LDA), Multiple Regression Analysis (PLS)"
+  -
+    head: "Theory of Graphs"
+    body: "key concepts and terminology ( graph, node,edge, path, tree, adjacency matrix)"
+  -
+    head: "Networks"
+    bodylist:
+      - "models and properties (shortest-longest path, diameter, degree or connectivity, random vs scale-free networks,power law degree distributions, clustering coefficient)"
+      - "network structure (hubs, bottlenecks, information flow)"
+  -
+    head: "Biological Networks"
+    body: "relational network, correlation network, regulatory network. WGCNA an example of correlation network"
+  -
+    head: "Machine Learning theory and approaches for dimensionality reduction"
+    bodylist:
+      - "basic concepts (vectors and matrices, eigenvalues and eigenvectors) and preprocessing (scaling and mean-centering)" 
+      - "supervised learning (support vector machine, model and feature selection, k-fold cross validation, overfitting)"
+      - "unsupervised learning (clustering, PCA, ICA)"
+---

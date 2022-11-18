@@ -1,0 +1,34 @@
+---
+layout: default
+modal-id: 2
+date: 2017-12-13
+img: sssNGS.png
+alt: Next Generation Sequencing
+project-date: Dec 2017
+client: Start Bootstrap
+title: Next Generation Sequencing
+category: Bioinformatics
+description: "<b>Sequencing technologies, from the beginning to the most advanced solutions such as single cells sequencing, DNA–seq, RNA–seq, ChIP–seq, ATAC–seq with theoretical study of the most common and innovative algorithms.</b>"
+modules:
+  - 
+    head: Introduction to NGS technologies
+    bodylist:
+      - Sequencing technologies, from the beginning to the most advanced solutions
+      - Introduction to sequencing technologies from a data analysts view
+      - Applications of sequencing technologies
+      - NGS Terminolgy
+  -
+    head: NGS data analyses
+    bodylist: 
+      - DNA-seq
+      - RNA-seq
+      - ChIP-seq
+      - ATAC-seq
+      - Single Cell RNAseq
+      - Introduction to Downstream Analysis
+      - Databases for NGS analysis
+      - Accessing public sequencing repositories
+---
+
+
+#The title and the single issues seem to be rather "massive" 

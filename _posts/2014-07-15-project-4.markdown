@@ -1,0 +1,39 @@
+---
+layout: default
+modal-id: 4
+date: 2017-12-13
+img: sssStructuralBiology.png
+alt: Structural Biology
+project-date: Dec 2017
+client: Start Bootstrap
+title: Structural Biology
+category: Biology
+description: "<b>Introduction to techniques for identifying protein structures. Computational concepts and algorithms to define and analyze the protein structures, build molecular and dynamic models, engineering drugs.</b>"
+modules:
+  - 
+    head: "Introduction to techniques for identifying protein structures"
+  - 
+    head: "From the sequential order of residues to their arrangement in space"
+  -
+    head: "How forces in biopolymers shape their local and global conformations"
+  -
+    head: "Experimental techniques"
+    bodylist:
+      - "(I) size, weight and shape of biopolymers"
+      - "(II) atomic level structure of biopolymers (X-Ray crystallography)"
+      - "(III) atomic level structure of biopolymers (NMR spectroscopy)"
+      - "(IV) optical techniques"
+  -
+    head: "Computational concepts and algorithms for the analysis of protein structures, build molecular models and engineering drugs"
+    bodylist:
+      - "Assessment of the stereochemical quality of protein structures"
+      - "Lack of experimental data and structure modeling from the sequence: homology modeling"
+      - "Protein-protein and protein-drug interactions (I): blind docking"
+      - "Protein-protein and protein-drug interactions (II): data driven docking"
+      - "Protein-protein association and dissociation by diffusion: brownian dynamics"
+      - "Molecules in motion (I): molecular dynamics of molecules and complexes in solution"
+      - "Molecules in motion (II): un/binding protein-ligand kinetics and thermodynamics"
+ 
+---
+
+

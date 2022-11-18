@@ -1,0 +1,32 @@
+
+    <!-- Courses Grid Section -->
+    <section id="courses">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Courses</h2>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                {%- assign sorted_posts = (site.posts | sort: 'modal-id') -%}
+                {%- for post in sorted_posts -%}
+                    <div class="col-sm-4 courses-item"   align="middle">
+                        <a href="#coursesModal-{{ post.modal-id }}" class="courses-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus"></i>
+                                </div>
+                            </div>
+                            <img src="img/courses/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+                            <div class="caption-text">
+                                {{post.alt}}
+                            </div>
+
+                        </a>
+
+                    </div>
+                {%- endfor -%}
+            </div>
+        </div>
+    </section>

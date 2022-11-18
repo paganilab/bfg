@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 8
+date: 2014-07-15
+img: sssLegal_and_EthicalIssuesOfScience_and_Technology.png
+alt: Legal & Ethical Issues of Science & Technology
+project-date: Dec 2017
+client: Start Bootstrap
+title: Legal & Ethical Issues of Science & Technology
+category: Biology
+description: "<b>Legal & Ethical Issues of Science & Technology.</b>"
+
+#modules: Legal & Ethical Issues of Science & Technology ??
+#Add something about this issue
+---

@@ -1,0 +1,50 @@
+---
+layout: default
+modal-id: 5
+date: 2017-12-13
+img: sssAlgorithmsAndDataStructuresInBioinformatics.png
+alt: Algorithms and Data Structures in Bioinformatics
+project-date: Dec 2017
+client: Start Bootstrap
+title: Algorithms and Data Structures in Bioinformatics
+category: Bioinformatics
+description: "<b>Introduction to algorithms and basic data up to complex data structures. Graphs concepts, algorithms and implementation. Programming languages paradigms.</b>"
+modules:
+  -
+    head: "Introduction to algorithms and basic data up to complex data structures: definitions, algorithms, simple data structures"
+    body: "Lists, arrays, simple operations, examples, implementation"
+  -
+    head: "Complex data structures, computation efficiency and relation between computation efficiency and data structures"
+    body: "Stacks and queues (definition, examples, implementation)"
+  -
+    head: "Trees, visit algorithms of a tree and tree operations. Binary trees, search trees, balanced binary trees, B-trees, AVL trees"
+  -
+    head: "Sets, dictionaries and hash tables, their operations and implementation concepts"
+  -
+    head: "Graphs, visit algorithms for graphs, operations and implementation concepts"
+  - 
+    head: "Algorithms in deep"
+    body: "Divide and conquer. Recursion. Greedy techniques (knapsack problem, radix sorting problem, Huffman codes). Binary search. Sorting algorithms. Sequence pattern analysis and matching. Algorithm optimization. Complexity analysis of algorithms"
+  -
+    head: "Sequence Alignments"
+    bodylist: 
+      - "Smith–Waterman"
+      - "Basic Local Alignment SearchTool (BLAST)"
+      - "Burrows-Wheeler Aligner (BWA)"
+      - "Bowtie and Burrows–Wheeler transform"
+      - "Bowtie2 and FM-index"
+      - "Quasi alignments (Salmon)"
+      - "Pseudo alignment (Kallisto)"
+  -
+    head: "Data Structures for alignments"
+    body: "BAM and CRAM"
+  -
+    head: "Genome index and gene annotations"
+    body: "GTF, BED, BIGWIG, VCF"
+  -
+    head: "Graphs"
+    body: "concepts, algorithms and implementation"
+  -
+    head: "Programming languages"
+    body: "paradigms; iterative, recursion, procedural, objects, functional. R and Python; Other such as Perl, Javscript, Ruby, ... where/when needed."
+---

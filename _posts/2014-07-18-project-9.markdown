@@ -1,0 +1,36 @@
+---
+layout: default
+modal-id: 9
+date: 2017-12-13
+img: sssFAQ.png
+alt: Master Frequently Asked Questions
+project-date: Dec 2017
+client: Start Bootstrap
+title: FAQ
+category: Bioinformatics
+description: "<b>Some questions & answers about the course.</b>"
+modules:
+  -
+    head: "What is bioinformatics?"
+    body: "<i>Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. As an interdisciplinary field of science, bioinformatics combines Computer Science, Biology, Mathematics, and Engineering to analyze and interpret biological data. Bioinformatics has been used for in silico analyses of biological queries using mathematical and statistical techniques.</i>"
+  -
+    head: "When was bioinformatics born?"
+    body: "<i>In late 1980s as we intended it nowadays.</i>"
+    link: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068925/"
+  -
+    head: "Which are the skills necessary to a modern bioinformatician?"
+    body: "<i>Skills can be build. The main feature you must have are Passion, Elasticity, Resiliency, Listen</i>"
+  -
+    head: "What's the aim of bioinformatics?"
+    body: "<i>Understanding the biology underneath the data using an ensemble of skills from many disciplines.</i>"
+  -
+    head: "How much bio and how much informatics are required in modern biological data analysis?"
+    body: "<i>45% bio, 25% informatics, 30% mathematics and statistics</i>"
+  -
+    head: "Where are given lectures and tutorials?"
+    body: "<i>The master will start on March TDBth . Venue, for lectures and tutorials, at IFOM ETS - The AIRC Institute of Molecular Oncology, Via Adamello, 16 20139 Milan Italy</i>"
+    link: "https://www.ifom.eu/en/"
+  -
+    head: "Which programming languages we are going to use?"
+    body: "Mainly R and Python for analyzing data with their companion libraries for Bioinformatics, Bioconductor and BioPython/NumPy respectively. But those are not the only languages that we are going to use, Javscript for instane is used for building HTML pages or interactive charts; Perl is the widely used byUCSC tools and Ensembl. Bash is not a programming language per se but sometimes is better scripting that prototyping code in a programming language. Groovy is the main language used to develop NextFlow, so some Groovy may be useful."
+---

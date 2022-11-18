@@ -1,0 +1,39 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-15
+img: sssDatabasesForBiologicalAnalysis.png
+alt: Databases for Biological Analysis
+project-date: Dec 2017
+client: Start Bootstrap
+title: Databases for Biological Analysis
+category: Bioinformatics
+description: "<b>Introduction to relational database concepts, the query language SQL and the Open Source database management systems.</b>"
+modules:
+  -
+    head: "Relational databases"
+    bodylist:
+      - "Introduction"
+      - "the SQL query language"
+      - "Advance SQL"
+      - "Database Design: Entity Relationship Diagrams, Transactions, Indexes, Relational Algebra, Join"
+  -
+    head: "NoSQL the altenatives to RDBMS"
+    bodylist:
+      - "when to use NoSQL and how they work"
+      - "Key-Value Store concepts"
+      - "Key-Value db, Redis a data structures server"
+      - "Document Store, Elastic"
+  -
+    head: "Graph Databases the alternatives to NoSQL and RDBMS"
+    bodylist: 
+      - "advantages over RDBMS and NoSQL"
+      - "Graph db, Neo4j"
+      - "Graph db, Semantic Databases Triple stores"
+  -
+    head: "Database in the Clous with Amazon AWS"
+    bodylist:
+      - "Cloud: AWS DynamoDB Document and Key-Value"
+      - "Cloud: AWS Aurora"
+      - "Cloud: AWS Neptune"
+---

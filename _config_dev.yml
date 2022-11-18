@@ -1,0 +1,64 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Bioinformatics and Functional Genomics
+email: master.bfg@unimi.it
+#url: http://www.unimi.it/studenti/master/114483.htm#c114486
+description: >- # this means to ignore newlines until "baseurl:"
+  Milan Italy the master in Bioinformatics and Functional Genomics teaches
+  advance bioinformatics in real research on cancer. Students will master
+  Next generation sequencing, Biotechnology, Computer Science, Statistics,
+  and Mathematics (Data Science).
+baseurl: /bfg # the subpath of your site, e.g. /blog
+keywords: "Bioinformatics, Data Science, Biology, Next Generation Sequencing, NGS, Machine Learning, Master, Databases, Programming, Programmin Languages, R, Python, Bioconductor"
+skills: "Bioinformatics - Data Science - Biology - Biotechnology - Molecular Biology - Machine Learning - Databases - Web Development - Programming"
+meta_author: Bonnal Raoul Jean Pierre
+
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Raoul Jean Pierre Bonnal
+  location: Italy
+  social:  Università degli Studi di Milano and Istituto Nazionale di Genetica Molecolare
+  credits: Credits
+
+
+# twitter_username: jekyllrb
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

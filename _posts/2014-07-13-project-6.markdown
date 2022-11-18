@@ -1,0 +1,25 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-15
+img: sssComputationalBiologyAndNetworks.png
+alt: Computational Biology and Networks
+project-date: Dec 2017
+client: Start Bootstrap
+title: Computational Biology and Networks
+category: Bioinformatics
+description: "<b>Introduction to Big Data: analysis and characterization of big data (the 4Vs of big data) and their lifecycle, data-driven approaches for knowledge discovery, data mining and statistical modeling (classification,clustering,predictive modeling).</b>"
+modules:
+  -
+    head: "Statistical modeling for DE analysis"
+    body: "parametric vs non-parametric methods, binomial distribution, overdispersion, negative binomial model, multiple comparisons the false discovery rate (Bonferroni and Benjamini-Hochberg)"
+  -
+    head: "Performing various types of enrichment analyses"
+    body: "main types of enrichment analysis (list-based, ranked-based, list-based with relationship), statistics to test for enrichment (Fisher exact, hypergeometric, Kolmogorov-Smirnov, permutation)"
+  -
+    head: "Enrichment tools"
+    body: "DAVID, GSEA, GOstat, topGO, BINGO"
+  -
+    head: "Applying clustering algorithms"
+    body: "hierarchical clustering, distance metrics, k-means"
+---

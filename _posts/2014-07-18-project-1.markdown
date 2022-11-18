@@ -1,0 +1,22 @@
+---
+layout: default
+modal-id: 1
+date: 2017-12-13
+img: sssFromMolecularBiologyToFunctionalGenomics.png
+alt: From Molecular Biology to Functional Genomics
+project-date: Dec 2017
+client: Start Bootstrap
+title: From Molecular Biology to Functional Genomics
+category: Biology
+description: "<b>Molecular basis of genetic disease; genomic structure; immuno-genetics and biochemistry of genetic phenomena.</b>"
+modules:
+  -
+    head: Molecular basis of genetic disease
+  -
+    head: Genomic structure
+  - 
+    head: Immuno-genetics and biochemistry of genetic phenomena
+---
+
+
+# Could we improve this section? The list is just a repetition of the title

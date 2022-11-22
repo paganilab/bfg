@@ -28,7 +28,7 @@ modules:
     body: "<i>45% bio, 25% informatics, 30% mathematics and statistics</i>"
   -
     head: "Where are given lectures and tutorials?"
-    body: "<i>The master will start on March TDBth . Venue, for lectures and tutorials, at IFOM ETS - The AIRC Institute of Molecular Oncology, Via Adamello, 16 20139 Milan Italy</i>"
+    body: "<i>The master will start on March 15th . Venue, for lectures and tutorials, at IFOM ETS - The AIRC Institute of Molecular Oncology, Via Adamello, 16 20139 Milan Italy</i>"
     link: "https://www.ifom.eu/en/"
   -
     head: "Which programming languages we are going to use?"

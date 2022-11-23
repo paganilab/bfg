@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: /bfg # the subpath of your site, e.g. /blog
 keywords: "Bioinformatics, Data Science, Biology, Next Generation Sequencing, NGS, Machine Learning, Master, Databases, Programming, Programmin Languages, R, Python, Bioconductor"
 skills: "Bioinformatics - Data Science - Biology - Biotechnology - Molecular Biology - Machine Learning - Databases - Web Development - Programming"
-meta_author: Bonnal Raoul Jean Pierre
+meta_author: None
 
 
 # Color settings (hex-codes without the leading hash-tag)
